@@ -11,6 +11,7 @@
 * As a student, I can easily check multiple tags for my challenge.
 * As a teacher I can download the answers of my exam.
 
+
 # Nice-to-have
 * As a user, I can recover my password so that I can log in to EasyExam.
 * As a student, I can exit the challenge mode so that I can safely exit EasyExam.

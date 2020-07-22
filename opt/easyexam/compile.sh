@@ -4,6 +4,7 @@
 # You can change the compiler  with the one you want to use.
 # author : Jose Chavez
 
+
 # Cleaning dir
 rm /opt/easyexam/media/output/MyEasyExam.pdf
 rm /opt/easyexam/media/output/Solutions.pdf
